@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+<p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&color=FFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+Profile;Shubham+Bisht;Fullstack+Developer;&center=true">
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="130px">
-</div>
+</p>
 <br/>
+
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nodejs,express,html,css)](https://skillicons.dev)
