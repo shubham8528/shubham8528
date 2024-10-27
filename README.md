@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=E22FE4&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Hi👋+I'm+Shubham+Bisht..;Software+Developer;&center=true">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=FFFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Hi👋+I'm+Shubham+Bisht..;Software+Developer;&center=true">
 </p>
 
 
