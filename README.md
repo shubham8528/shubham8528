@@ -32,15 +32,12 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham8528&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
 <br/>
-<div align="left">
     
 ![](https://github-readme-stats.vercel.app/api?username=shubham8528&theme=radical&_border=false&include_all_commits=true&count_private=true)
-</div>
-<div align="right">
 
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham8528&theme=radical&hide_border=false_align=right)
-</div>
+
 <br />
                 
  # LeetCode:
