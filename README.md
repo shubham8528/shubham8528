@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,bitbucket,figma)](https://skillicons.dev)
+
+### Styling:
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents,css,materialui,sass,tailwind)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
