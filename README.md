@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="150px">
 <br/>
     
-![](https://DenverCoder1/github-readme-streak-stats/api?username=shubham8528&theme=radical&_border=false&include_all_commits=true&count_private=true)
-![](anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <a href="https://git.io/streak-stats" align="right"><img src="https://github-readme-streak-stats.herokuapp.com?user=shubham8528&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham8528&theme=radical&hide_border=false_align=right)
 
