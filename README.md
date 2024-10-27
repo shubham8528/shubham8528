@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&color=FFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+Profile;Shubham+Bisht;Fullstack+Developer;&center=true">
-</p>
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="130px">
+</p>
 
 
 ### Skills:
