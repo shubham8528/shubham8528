@@ -29,6 +29,7 @@ Here are some ideas to get you started:
     ![](https://github-readme-stats.vercel.app/api?username=shubham8528&theme=radical&_border=false&include_all_commits=true&count_private=true)
         ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham8528&theme=radical&hide_border=false)
                 <br />
+                # 📊 LeetCode:
                 ![](https://leetcard.jacoblin.cool/shubham8528?site=https://leetcode.com/progress/)
           
        
