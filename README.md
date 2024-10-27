@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&color=FFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+Profile;Shubham+Bisht;Fullstack+Developer;&center=true">
+![]<p>
+<img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&color=FFFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+Profile;Shubham+Bisht;Fullstack+Developer;&center=true">
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="130px">
 </p>
 <br/>
