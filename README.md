@@ -27,5 +27,6 @@ Here are some ideas to get you started:
         ![](https://github-readme-streak-stats.herokuapp.com/?user=shubham8528&theme=radical&hide_border=false)
             <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
                 <br />
+                ![](https://leetcard.jacoblin.cool/leetcode?site=https://leetcode.com/progress/)
           
        
