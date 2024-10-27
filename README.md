@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Shubham+Bisht..;Software+Developer;&center=true"></a></p>
 </p>
     
-# 🖥️ Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=react,+redux,+next,+nodejs,express+,html,css)](https://skillicons.dev)
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=react,redux,next,nodejs,express,html,css)](https://skillicons.dev)
+
+### Language:
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript)](https://skillicons.dev)
+
+### Tools:
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,bitbucket)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
