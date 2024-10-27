@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
     
 # 🖥️ Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=react,redux,next,node,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,next,nodejs,express,html,css)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
