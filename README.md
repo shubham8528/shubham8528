@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&color=FFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Welcome+To+My+Profile;Shubham+Bisht;Fullstack+Developer;&center=true">
 </p>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham8528&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px"><br/>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=shubham8528&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
