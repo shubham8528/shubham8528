@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 <p>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&color=FFFFF&background=FFFFFF00&vCenter=true&width=500&height=50&lines=Hey+There+my+name+is+Shubham+Bisht;Fullstack+Developer;&center=true">
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="130px">
+  
+[![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 </p>
 <br/>
 <br/>
 <br/>
 
-[![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 
-
-
-  [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square&show=unique)](http://hits.dwyl.com/shubham8528/shubham8528)
   
 
 ### Skills:
