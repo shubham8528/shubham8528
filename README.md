@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+![Visitor Count](https://img.shields.io/badge/Visitor%20Count-0A0A0A?style=flat-square&logo=github&labelColor=0A0A0A&color=0A0A0A&logoColor=white)
+[![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square&label=Visitor%20Count&color=0A0A0A)](http://hits.dwyl.com/shubham8528/shubham8528)
+
+
 [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 
 ### Skills:
