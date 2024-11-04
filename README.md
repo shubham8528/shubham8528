@@ -27,11 +27,6 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://img.shields.io/badge/Visitor%20Count-0A0A0A?style=flat-square&logo=github&labelColor=0A0A0A&color=0A0A0A&logoColor=white)
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=0a0a0a&label=Visitor%20Count&query=value&url=https://api.countapi.xyz/hit/shubham8528/profile_visits)
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=0a0a0a&label=Visitor%20Count&query=value&url=https://api.countapi.xyz/hit/YOUR_NAMESPACE/YOUR_KEY)
-
-
-[![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nodejs,express,html,css)](https://skillicons.dev)
