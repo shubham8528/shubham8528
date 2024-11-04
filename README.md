@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+[![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nodejs,express,html,css)](https://skillicons.dev)
@@ -48,11 +49,9 @@ Here are some ideas to get you started:
  
 ![](https://leetcard.jacoblin.cool/shubham8528?site=https://leetcode.com/progress/)
 
-## Visitor Count
-<img src="https://profile-counter.glitch.me/shubham8528/count.svg" />
 
 
-  [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
+
 
           
        
