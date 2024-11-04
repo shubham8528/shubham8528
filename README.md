@@ -51,5 +51,8 @@ Here are some ideas to get you started:
 ## Visitor Count
 <img src="https://profile-counter.glitch.me/shubham8528/count.svg" />
 
+
+  [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
+
           
        
