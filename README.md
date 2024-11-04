@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 
+
+
+  [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square&show=unique)](http://hits.dwyl.com/shubham8528/shubham8528)
+  
+
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,redux,next,nodejs,express,html,css)](https://skillicons.dev)
 
