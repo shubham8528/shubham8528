@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 
 # Visitios Count
 <img src="https://profile-counter.glitch.me/shubham8528/count.svg" />
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/shubham8528)
 
           
        
