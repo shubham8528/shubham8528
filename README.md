@@ -48,7 +48,7 @@ Here are some ideas to get you started:
  
 ![](https://leetcard.jacoblin.cool/shubham8528?site=https://leetcode.com/progress/)
 
-# Visitios Count
+## Visitor Count
 <img src="https://profile-counter.glitch.me/shubham8528/count.svg" />
 
           
