@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
 
+<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fshubham8528%2Fshubham8528.svg%3Fstyle%3Dflat-square)%5D(http%3A%2F%2Fhits.dwyl.com%2Fshubham8528%2Fshubham8528">
 
  <br/>
 [![HitCount](https://hits.dwyl.com/shubham8528/shubham8528.svg?style=flat-square)](http://hits.dwyl.com/shubham8528/shubham8528)
